@@ -1,2 +1,4 @@
 # noorgitdemo
-this is my first repoo
+this is my first repoo.
+author - Sknoor 
+mca devops 
